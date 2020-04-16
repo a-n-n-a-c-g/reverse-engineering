@@ -12,6 +12,10 @@ Next generation dynamic network analysis tool for malware analysts and penetrati
 Combination of tcpflow, tcpkill, and ngrep that lets you search network traffic just as you're used to searching Linux file systems. Python based. To use: ```./flowgrep OPTIONS [FILTER]```
 - https://monkey.org/~jose/software/flowgrep/
 
+## GDB Dashboard
+Modular visual interface for GDB in Python
+- https://github.com/cyrus-and/gdb-dashboard
+
 ## Hexdump
 View files in hex. ```$ hexdump <filename>```
 - https://sourceforge.net/projects/hexdump/
