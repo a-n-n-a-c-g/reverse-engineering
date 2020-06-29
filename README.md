@@ -41,6 +41,9 @@ A Linux Toolkit for Reverse-Engineering and Analyzing Malware
 Prints out packet content descriptions. To use this tool: ```tcpdump [ -AbdDefhHIJKlLnNOpqStuUvxX# ] [ -B buffer_size ]``` 
 - https://www.tcpdump.org/manpages/tcpdump.1.html
 
+## TShark
+Turn pcap into another format to make it easier to analyze
+
 ## VirusTotal.com
 Upload possibly malicious files/text/urls, and then checks to see if that text/signature/pattern is recognized as a virus in any other antivirus software.
 - https://www.virustotal.com/
